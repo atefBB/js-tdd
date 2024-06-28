@@ -1,1 +1,1 @@
-## Practice TDD in TypeScript
+## Practice TDD in JavaScript/TypeScript
